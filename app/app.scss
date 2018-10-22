@@ -1,0 +1,24 @@
+// NativeScript core theme
+// @see https://docs.nativescript.org/ui/theme
+@import '~nativescript-theme-core/scss/forest';
+
+// Override variables here
+
+@import '~nativescript-theme-core/scss/index';
+
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+
+.fa {
+    font-family: 'Font Awesome 5 Pro', 'Font Awesome 5 Pro Brands', fa-regular-400;
+}
+.fal {
+    font-family: 'Font Awesome 5 Pro Light', 'Font Awesome 5 Pro', fa-light-200;
+}
+.fab {
+    font-family: 'Font Awesome 5 Pro Brands', fa-brands-400;
+}
+.fas {
+    font-family: 'Font Awesome 5 Pro Solid', fa-solid-900;
+}
